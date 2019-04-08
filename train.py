@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 17 2018
 
-@author: Ashish Kumar
+@author: Avanish Kumar
 """
 
 import tkinter as tk
